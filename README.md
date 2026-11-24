@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **https://yashvavaliya.vercel.app**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yash-vavaliya-b84427207/](https://www.linkedin.com/in/yash-vavaliya-b84427207/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/yash-vavaliya/](https://www.linkedin.com/in/yash-vavaliya/)
 
 - ⚡ Fun fact I'm always ready for the next adventure 🗺️🚀
 
