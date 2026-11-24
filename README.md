@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **React,JS,Nodejs,Database**
 
-- 📫 How to reach me **vavaliyayash@gmail.com**
+- 📫 How to reach me **https://yashvavaliya.vercel.app**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yash-vavaliya-b84427207/](https://www.linkedin.com/in/yash-vavaliya-b84427207/)
 
